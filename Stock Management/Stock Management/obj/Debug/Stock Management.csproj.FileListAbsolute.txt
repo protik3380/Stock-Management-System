@@ -1,0 +1,7 @@
+C:\Users\Protic\Documents\Visual Studio 2013\Projects\Stock Management\Stock Management\bin\Stock Management.dll.config
+C:\Users\Protic\Documents\Visual Studio 2013\Projects\Stock Management\Stock Management\bin\Stock Management.dll
+C:\Users\Protic\Documents\Visual Studio 2013\Projects\Stock Management\Stock Management\bin\Stock Management.pdb
+C:\Users\Protic\Documents\Visual Studio 2013\Projects\Stock Management\Stock Management\obj\Debug\Stock Management.csprojResolveAssemblyReference.cache
+C:\Users\Protic\Documents\Visual Studio 2013\Projects\Stock Management\Stock Management\obj\Debug\Stock Management.dll
+C:\Users\Protic\Documents\Visual Studio 2013\Projects\Stock Management\Stock Management\obj\Debug\Stock Management.pdb
+C:\Users\Protic\documents\visual studio 2013\Projects\Stock Management\Stock Management\bin\itextsharp.dll
